@@ -1,4 +1,4 @@
 # LeafLetSamples
 
-See sample: http://tbicr.github.io/LeafLetSamples/
-
+- Safe city: http://tbicr.github.io/LeafLetSamples/
+- Police: http://tbicr.github.io/LeafLetSamples/police.html
