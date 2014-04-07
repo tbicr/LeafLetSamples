@@ -1,0 +1,1923 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    27.49442, 
+                    53.90246
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305676427, 
+            "properties": {
+                "name": "Опоп-110"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.54762, 
+                    53.85412
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305679881, 
+            "properties": {
+                "name": "Опоп-57"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.7003343, 
+                    53.843114
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305686871, 
+            "properties": {
+                "name": "Опоп-6"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6339614, 
+                    53.9535488
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305686845, 
+            "properties": {
+                "name": "Опоп-77"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.48786, 
+                    53.89873
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305676017, 
+            "properties": {
+                "name": "Опоп-111"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.49234, 
+                    53.84129
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305676106, 
+            "properties": {
+                "name": "Опоп-55"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.527495, 
+                    53.8899956
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1376511281, 
+            "properties": {
+                "name": "Межрайонный экзаменационный отдел № 1 УГАИ ГУВД Мингорисполкома"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5590632, 
+                    53.9143502
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682849, 
+            "properties": {
+                "name": "Опоп-132"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4771014, 
+                    53.9229127
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675534, 
+            "properties": {
+                "name": "Опоп-114"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6448, 
+                    53.9339
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685560, 
+            "properties": {
+                "name": "Опоп-78"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.68166, 
+                    53.86719
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305686946, 
+            "properties": {
+                "name": "Опоп-5"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.61156, 
+                    53.85815
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684478, 
+            "properties": {
+                "name": "Опоп-30"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.52897, 
+                    53.8948
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305678120, 
+            "properties": {
+                "name": "Опоп-39"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5932788, 
+                    53.8676809
+                ], 
+                "type": "Point"
+            }, 
+            "id": 281797694, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5940981, 
+                    53.8716193
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684109, 
+            "properties": {
+                "name": "Опоп-24"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.61491, 
+                    53.9001
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685338, 
+            "properties": {
+                "name": "Опоп-66"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5424467, 
+                    53.9318151
+                ], 
+                "type": "Point"
+            }, 
+            "id": 463175424, 
+            "properties": {
+                "name": "УВД Центрального р-на"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5923174, 
+                    53.8970471
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684414, 
+            "properties": {
+                "name": "Опоп-69"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.62753, 
+                    53.87232
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684978, 
+            "properties": {
+                "name": "Опоп-2"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.56408, 
+                    53.87178
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305680795, 
+            "properties": {
+                "name": "Опоп-21"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.68452, 
+                    53.9359
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305687243, 
+            "properties": {
+                "name": "Опоп-89"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5936066, 
+                    53.8773994
+                ], 
+                "type": "Point"
+            }, 
+            "id": 526818579, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5961026, 
+                    53.9523271
+                ], 
+                "type": "Point"
+            }, 
+            "id": 25323079, 
+            "properties": {
+                "name": "Милиция Советского района"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6785306, 
+                    53.8823236
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1487506171, 
+            "properties": {
+                "name": "ГОМ-2"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.42441, 
+                    53.88277
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305674005, 
+            "properties": {
+                "name": "Опоп-108"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.58596, 
+                    53.8859
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305683149, 
+            "properties": {
+                "name": "Опоп-23"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.60221, 
+                    53.89944
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305683995, 
+            "properties": {
+                "name": "Опоп-67"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5995764, 
+                    53.9315398
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684814, 
+            "properties": {
+                "name": "Опоп-99"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4340693, 
+                    53.8827794
+                ], 
+                "type": "Point"
+            }, 
+            "id": 280034159, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4878377, 
+                    53.9251935
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675636, 
+            "properties": {
+                "name": "Опоп-118"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.57603, 
+                    53.92096
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682582, 
+            "properties": {
+                "name": "Опоп-97"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.60122, 
+                    53.94068
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684687, 
+            "properties": {
+                "name": "Опоп-98"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5037426, 
+                    53.9122714
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305677894, 
+            "properties": {
+                "name": "Опоп-120"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5122425, 
+                    53.9085571
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305677877, 
+            "properties": {
+                "name": "Опоп-117"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.54981, 
+                    53.84644
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305679863, 
+            "properties": {
+                "name": "Опоп-59"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.71035, 
+                    53.94675
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305686923, 
+            "properties": {
+                "name": "Опоп-86"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5612819, 
+                    53.8991242
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305681587, 
+            "properties": {
+                "name": "Опоп-20"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6949737, 
+                    53.9519116
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1352208255, 
+            "properties": {
+                "name": "Городской отдел милиции Первомайского р-на"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4358425, 
+                    53.8650172
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305674045, 
+            "properties": {
+                "name": "Опоп-150"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4487, 
+                    53.91096
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305674009, 
+            "properties": {
+                "name": "Опоп-124"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4773902, 
+                    53.9087547
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675418, 
+            "properties": {
+                "name": "Опоп-115"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6727001, 
+                    53.9120447
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305687204, 
+            "properties": {
+                "name": "ОПОП-71"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.54122, 
+                    53.87755
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305678962, 
+            "properties": {
+                "name": "Опоп-52"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.47732, 
+                    53.86206
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675296, 
+            "properties": {
+                "name": "Опоп-44"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6394075, 
+                    53.937028
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685557, 
+            "properties": {
+                "name": "Опоп-80"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5402359, 
+                    53.9040384
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1244183056, 
+            "properties": {
+                "name": "Общественный пункт охраны правопорядка"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.579175, 
+                    53.9187271
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682572, 
+            "properties": {
+                "name": "Опоп-101"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.71563, 
+                    53.94765
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305686919, 
+            "properties": {
+                "name": "Опоп-103"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.56566, 
+                    53.93656
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682854, 
+            "properties": {
+                "name": "Опоп-131"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6070726467469, 
+                    53.8888321830043
+                ], 
+                "type": "Point"
+            }, 
+            "id": 25322812, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5273826, 
+                    53.8900651
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1376511284, 
+            "properties": {
+                "name": "ГАИ ГУВД Мингорисполкома"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.50498, 
+                    53.93225
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305676058, 
+            "properties": {
+                "name": "Опоп-123"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5953933, 
+                    53.8614552
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684107, 
+            "properties": {
+                "name": "Опоп-25"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.61581, 
+                    53.9619
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684934, 
+            "properties": {
+                "name": "Опоп-100"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6905, 
+                    53.9486
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305687284, 
+            "properties": {
+                "name": "Опоп-76"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.46878, 
+                    53.87234
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675243, 
+            "properties": {
+                "name": "Опоп-46"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.62386, 
+                    53.83764
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684877, 
+            "properties": {
+                "name": "Опоп-8"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4425265, 
+                    53.9086437
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1336551252, 
+            "properties": {
+                "name": "ГОМ-1"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5355689, 
+                    53.8875996
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1244314689, 
+            "properties": {
+                "name": "РОВД Октябрьского района"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.46198, 
+                    53.85794
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675097, 
+            "properties": {
+                "name": "Опоп-48"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.67134, 
+                    53.94761
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305686494, 
+            "properties": {
+                "name": "Опоп-90"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.46428, 
+                    53.85069
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675100, 
+            "properties": {
+                "name": "Опоп-47"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6084492908285, 
+                    53.9349045571796
+                ], 
+                "type": "Point"
+            }, 
+            "id": 25322468, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.49842, 
+                    53.87755
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305676136, 
+            "properties": {
+                "name": "Опоп-40"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.53597, 
+                    53.88811
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305679518, 
+            "properties": {
+                "name": "Опоп-38"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5856372, 
+                    53.837694
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1467451723, 
+            "properties": {
+                "name": "Опорный пункт (милиция)"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.63459, 
+                    53.84644
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685372, 
+            "properties": {
+                "name": "Опоп-10"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5513689, 
+                    53.8905436
+                ], 
+                "type": "Point"
+            }, 
+            "id": 574860085, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.63697, 
+                    53.92132
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685533, 
+            "properties": {
+                "name": "Опоп-91"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.49305, 
+                    53.91249
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675836, 
+            "properties": {
+                "name": "МТИС (Минские Телевизионные Информационные Сети)"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.54723, 
+                    53.90219
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305679534, 
+            "properties": {
+                "name": "Опоп-37"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6094262, 
+                    53.8520363
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684480, 
+            "properties": {
+                "name": "ОПОП-29"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6912006, 
+                    53.9378629
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305687150, 
+            "properties": {
+                "name": "Опоп-88"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4835578, 
+                    53.8671197
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675298, 
+            "properties": {
+                "name": "Опоп-43"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5577435, 
+                    53.8750477
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305680784, 
+            "properties": {
+                "name": "Опоп-51"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6133, 
+                    53.87528
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685052, 
+            "properties": {
+                "name": "Опоп-1"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6064868526001, 
+                    53.8887945133802
+                ], 
+                "type": "Point"
+            }, 
+            "id": 25322835, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5022017, 
+                    53.858078
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1376511282, 
+            "properties": {
+                "name": "Межрайонный экзаменационный отдел № 2 УГАИ ГУВД Мингорисполкома"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4493653, 
+                    53.9024428
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305674015, 
+            "properties": {
+                "name": "Опоп-119"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.51226, 
+                    53.87418
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305678218, 
+            "properties": {
+                "name": "Опоп-41"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6328514, 
+                    53.858305
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684893, 
+            "properties": {
+                "name": "Опоп-9"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.50957, 
+                    53.89425
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305677160, 
+            "properties": {
+                "name": "Опоп-42"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.45913, 
+                    53.86026
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305674680, 
+            "properties": {
+                "name": "Опоп-49"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.45923, 
+                    53.84803
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675084, 
+            "properties": {
+                "name": "Опоп-152"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.61701, 
+                    53.95791
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684937, 
+            "properties": {
+                "name": "Опоп-102"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4433566, 
+                    53.9159635
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2549886174, 
+            "properties": {
+                "name": "Общественный пункт охнаны порядка №125"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6144056, 
+                    53.8886178
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685365, 
+            "properties": {
+                "name": "Опоп-63"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.43282, 
+                    53.898
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305673999, 
+            "properties": {
+                "name": "Опоп-121"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.49168, 
+                    53.90545
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675828, 
+            "properties": {
+                "name": "Опоп-112"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6120176, 
+                    53.9345595
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684726, 
+            "properties": {
+                "name": "Опоп-81"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.61982, 
+                    53.92978
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685747, 
+            "properties": {
+                "name": "Опоп-84"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5368114, 
+                    53.9093463
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305678493, 
+            "properties": {
+                "name": "Опоп-116"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5689045, 
+                    53.9104574
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682566, 
+            "properties": {
+                "name": "Опоп-133"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.44095, 
+                    53.85738
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305674047, 
+            "properties": {
+                "name": "Опоп-151"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.60790055, 
+                    53.9292709
+                ], 
+                "type": "Point"
+            }, 
+            "id": 25322480, 
+            "properties": {
+                "name": "Первомайский РУВД"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4820108, 
+                    53.9055273
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1741679460, 
+            "properties": {
+                "name": "Городское отделение Милиции №3"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.60899, 
+                    53.95229
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684936, 
+            "properties": {
+                "name": "Опоп-94"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.66945, 
+                    53.86957
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305686130, 
+            "properties": {
+                "name": "ОПОП-12"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5989728, 
+                    53.8572392
+                ], 
+                "type": "Point"
+            }, 
+            "id": 281714460, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.56279, 
+                    53.91815
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682775, 
+            "properties": {
+                "name": "Опоп-96"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6400983252249, 
+                    53.8545856950742
+                ], 
+                "type": "Point"
+            }, 
+            "id": 25320914, 
+            "properties": {
+                "name": "отдел охраны Заводского района"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.598327, 
+                    53.904059
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305683991, 
+            "properties": {
+                "name": "ОПОП-74"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6071665, 
+                    53.923267
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684816, 
+            "properties": {
+                "name": "Опоп-82"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6478841, 
+                    53.900872
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685450, 
+            "properties": {
+                "name": "Опоп-65"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.68433, 
+                    53.88313
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685873, 
+            "properties": {
+                "name": "ОПОП-13"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5417943319013, 
+                    53.8853907842097
+                ], 
+                "type": "Point"
+            }, 
+            "id": 25388742, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5486462, 
+                    53.899837
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1244221468, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5498832, 
+                    53.8829481
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305679211, 
+            "properties": {
+                "name": "Опоп-58"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.61431, 
+                    53.8886
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685337, 
+            "properties": {
+                "name": "Опоп-64"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.44971, 
+                    53.84987
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305674260, 
+            "properties": {
+                "name": "Опоп-153"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.643032, 
+                    53.8390356
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685373, 
+            "properties": {
+                "name": "Опоп-7"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.57395, 
+                    53.90695
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682570, 
+            "properties": {
+                "name": "Опоп-70"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4994, 
+                    53.84653
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305676103, 
+            "properties": {
+                "name": "Опоп-54"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.63381, 
+                    53.94596
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685565, 
+            "properties": {
+                "name": "Опоп-79"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5529, 
+                    53.9009
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305681594, 
+            "properties": {
+                "name": "Опоп-129"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.47541, 
+                    53.92882
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675414, 
+            "properties": {
+                "name": "Опоп-126"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4299642, 
+                    53.8826811
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1430268923, 
+            "properties": {
+                "name": "ОПОП 108"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6807814, 
+                    53.8822862
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685904, 
+            "properties": {
+                "name": "Опоп-11"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.49202, 
+                    53.89672
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305676429, 
+            "properties": {
+                "name": "Милиция"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.54588, 
+                    53.9267299
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305681187, 
+            "properties": {
+                "name": "Опоп-128"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.62296, 
+                    53.908537
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685686, 
+            "properties": {
+                "name": "Опоп-68"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.56476, 
+                    53.86298
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305680911, 
+            "properties": {
+                "name": "Опоп-22"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.68748, 
+                    53.943
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305687251, 
+            "properties": {
+                "name": "Опоп-87"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.58671, 
+                    53.91182
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305683535, 
+            "properties": {
+                "name": "ОПОП-92"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6470778, 
+                    53.8385967
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1262008099, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6109882, 
+                    53.9283254
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684727, 
+            "properties": {
+                "name": "Опоп-83"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.49116, 
+                    53.91633
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675832, 
+            "properties": {
+                "name": "Опоп-11З"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5080906, 
+                    53.9077589
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1261870586, 
+            "properties": {
+                "name": "Фрунзенское отделение милиции"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.659043, 
+                    53.8650158
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305686256, 
+            "properties": {
+                "name": "ОПОП-4"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.64991, 
+                    53.87575
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685389, 
+            "properties": {
+                "name": "Опоп-3"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4929856, 
+                    53.9206864
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1104041901, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5694474, 
+                    53.8375373
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682023, 
+            "properties": {
+                "name": "Опоп-26"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.53453, 
+                    53.84749
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305678986, 
+            "properties": {
+                "name": "Опоп-56"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.56111, 
+                    53.92914
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305682856, 
+            "properties": {
+                "name": "Опоп-130"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.51584, 
+                    53.85174
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305676814, 
+            "properties": {
+                "name": "Опоп-53"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5536, 
+                    53.89272
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305681603, 
+            "properties": {
+                "name": "Опоп-50"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4652, 
+                    53.86504
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675246, 
+            "properties": {
+                "name": "Опоп-45"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
