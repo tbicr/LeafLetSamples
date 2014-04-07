@@ -1,0 +1,691 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6032561, 
+                    53.9185699
+                ], 
+                "type": "Point"
+            }, 
+            "id": 281727421, 
+            "properties": {
+                "name": "Академическая"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5461833, 
+                    53.9110667
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736762, 
+            "properties": {
+                "name": "Гостиничный комплекс Юбилейный"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.518131, 
+                    53.880882
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736790, 
+            "properties": {
+                "name": "апартОтель Comfort"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.628073, 
+                    53.917824
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766722636, 
+            "properties": {
+                "name": "Санаторий Центр медицинской реабилитации и бальнеолечения"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6609155, 
+                    53.9251122
+                ], 
+                "type": "Point"
+            }, 
+            "id": 931691639, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4655462, 
+                    53.8612109
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1667262178, 
+            "properties": {
+                "name": "Звезда"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6127721, 
+                    53.9257454
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684731, 
+            "properties": {
+                "name": "Дружба"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.55205, 
+                    53.91495
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736562, 
+            "properties": {
+                "name": "Гостиница Дом Москвы"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5520888, 
+                    53.8993138
+                ], 
+                "type": "Point"
+            }, 
+            "id": 281570481, 
+            "properties": {
+                "name": "МВД"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.52979, 
+                    53.91081
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305678466, 
+            "properties": {
+                "name": "У Фонтана"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4871436, 
+                    53.8691324
+                ], 
+                "type": "Point"
+            }, 
+            "id": 281246244, 
+            "properties": {
+                "name": "IBB Hotel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5466146, 
+                    53.9112445
+                ], 
+                "type": "Point"
+            }, 
+            "id": 255408908, 
+            "properties": {
+                "name": "Юбилейная"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.580784, 
+                    53.900689
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736654, 
+            "properties": {
+                "name": "Гостиница Победы 40 лет"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5106, 
+                    53.907883
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736488, 
+            "properties": {
+                "name": "Гостиница Белдорстрой"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5181311, 
+                    53.8807136
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2379013897, 
+            "properties": {
+                "name": "ApartHotel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.519372, 
+                    53.892125
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736489, 
+            "properties": {
+                "name": "Гостиница Белстройцентр"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.551982, 
+                    53.903017
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736786, 
+            "properties": {
+                "name": "Хостел Revolucion"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5809326, 
+                    53.9008325
+                ], 
+                "type": "Point"
+            }, 
+            "id": 281595903, 
+            "properties": {
+                "name": "40 лет Победы"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.56229, 
+                    53.90562
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305681900, 
+            "properties": {
+                "name": "Журавинка"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.660923, 
+                    53.925002
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736750, 
+            "properties": {
+                "name": "Гостиничный комплекс ОАО Газпром трансгаз Беларусь"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.549867, 
+                    53.8839
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736787, 
+            "properties": {
+                "name": "Хостел VIVA"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5554007, 
+                    53.8964365
+                ], 
+                "type": "Point"
+            }, 
+            "id": 306067071, 
+            "properties": {
+                "name": "Нц Шашек И Шахмат"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5382245, 
+                    53.9125745
+                ], 
+                "type": "Point"
+            }, 
+            "id": 255310788, 
+            "properties": {
+                "name": "Планета"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5548761, 
+                    53.8951116
+                ], 
+                "type": "Point"
+            }, 
+            "id": 782631602, 
+            "properties": {
+                "name": "Crowne Plaza Minsk"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.49367, 
+                    53.9077833
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736751, 
+            "properties": {
+                "name": "Гостиничный комплекс Орбита"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6661667, 
+                    53.864983
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736789, 
+            "properties": {
+                "name": "Хостел Постоялец"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5477564, 
+                    53.9058867
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736773, 
+            "properties": {
+                "name": "Отель Губернский"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4714199, 
+                    53.9167099
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305675753, 
+            "properties": {
+                "name": "Урсула"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5503887, 
+                    53.8966111
+                ], 
+                "type": "Point"
+            }, 
+            "id": 281570459, 
+            "properties": {
+                "name": "Минск"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.553978, 
+                    53.901889
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736540, 
+            "properties": {
+                "name": "Гостиница Гарни"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6277332, 
+                    53.8760387
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685023, 
+            "properties": {
+                "name": "Турист"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4655167, 
+                    53.86095
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736579, 
+            "properties": {
+                "name": "Гостиница Звезда"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.526833, 
+                    53.92145
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736524, 
+            "properties": {
+                "name": "Гостиница Виктория"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6168908, 
+                    53.8876428
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685110, 
+            "properties": {
+                "name": "МТЗ"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.63081, 
+                    53.92686
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305685518, 
+            "properties": {
+                "name": "Беларусьфильмовская"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5683011, 
+                    53.9126499
+                ], 
+                "type": "Point"
+            }, 
+            "id": 281786439, 
+            "properties": {
+                "name": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.450648, 
+                    53.894217
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736538, 
+            "properties": {
+                "name": "Гостиница Вояж"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5521, 
+                    53.8994
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736607, 
+            "properties": {
+                "name": "Гостиница МВД"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.4506235, 
+                    53.8943617
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2452181498, 
+            "properties": {
+                "name": "Вояж"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.59253, 
+                    53.9254
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305684578, 
+            "properties": {
+                "name": "Спорт"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.689844, 
+                    53.880069
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736741, 
+            "properties": {
+                "name": "Гостиничный комплекс Алмаз"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.558964, 
+                    53.898409
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736765, 
+            "properties": {
+                "name": "Общежитие при Академии управления №1"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.627533, 
+                    53.8761667
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736759, 
+            "properties": {
+                "name": "Гостиничный комплекс Турист"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.6895561, 
+                    53.8802041
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1487508534, 
+            "properties": {
+                "name": "Алмаз"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5421445, 
+                    53.90265
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1244220175, 
+            "properties": {
+                "name": "Гостиница РИПО"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.51215, 
+                    53.87412
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305678387, 
+            "properties": {
+                "name": "Гранит"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5298, 
+                    53.910667
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736709, 
+            "properties": {
+                "name": "Гостиница У фонтана"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.60325, 
+                    53.9186
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2766736476, 
+            "properties": {
+                "name": "Гостиница Академическая"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5538169, 
+                    53.9016368
+                ], 
+                "type": "Point"
+            }, 
+            "id": 305679999, 
+            "properties": {
+                "name": "Гарни"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
